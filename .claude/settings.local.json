@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(xargs:*)",
+      "Bash(tree:*)",
+      "Skill(superpowers:brainstorming)",
+      "Bash(pio run:*)",
+      "Bash(python3:*)",
+      "Skill(superpowers:systematic-debugging)",
+      "Bash(git init:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
